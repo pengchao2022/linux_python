@@ -50,7 +50,9 @@ print('allen' in courses)
 
 print('lily' in courses)
 
-
+for item in courses:
+	
+	print(item)
 
 
 
