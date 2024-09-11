@@ -12,4 +12,16 @@ num.reverse()
 
 print(num)
 
+a = sum(num)
+
+print("The sum of the list is:", a)
+
+b = max(num)
+
+print("The Max number of the list is:", b)
+
+c = min(num)
+
+print("The Min number of the list is:", c)
+
 
