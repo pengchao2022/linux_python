@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 
+
 courses = ['History', 'Math', 'Physics', 'CompSci']
 
 courses.append('Art')
@@ -32,6 +33,22 @@ print(courses)
 courses.reverse()
 
 print(courses)
+
+# this is to print the index number of one element
+
+print(courses.index('Math'))
+
+courses.append('allen')
+
+print(courses)
+
+print(courses.index('allen'))
+
+# this is to judge the true of false
+
+print('allen' in courses)
+
+print('lily' in courses)
 
 
 
