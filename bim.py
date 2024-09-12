@@ -30,6 +30,6 @@ elif 28 <= bmi < 30:
 
 else:
 
-	who, nat = "fat", "fat"
+	who, nat = "fattest", "fattest"
 
 print("BMI index is: Global'{0}', China'{1}'".format(who,nat))
