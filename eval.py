@@ -12,5 +12,13 @@ print(num1)
 
 print(type(num1))
 
+print(eval('"1+2"'))
+
+
+print(eval('print("Helloworld")'))
+
+
+
+
 
 
