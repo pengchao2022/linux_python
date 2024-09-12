@@ -8,7 +8,12 @@ x = 3
 
 y = 2
 
-print(pow(x,y))
+z = pow(x,y)
+
+print("the number 3 raised 2 power is:", z)
+
+
+#print(pow(x,y))
 
 
 
@@ -23,5 +28,13 @@ print("The total IPv4 address in the world is:", c)
 
 
 #print(pow(a,b))
+
+k1 = 2
+
+k2 = 100
+
+k3 = pow(2,100)
+
+print("the number 2 raised 100 power is:", k3)
 
 
