@@ -2,6 +2,8 @@
 
 d = {"China":"Shanghai", "USA":"Washington", "Japan":"Tokyo", "Korea":"Soule"}
 
+print(len(d))
+
 print(d)
 
 
@@ -33,5 +35,11 @@ print(d.keys())
 
 
 print(d.values())
+
+# this is to delete all the keys and values in dictionary
+
+d.clear()
+
+print(d)
 
 
