@@ -17,4 +17,10 @@ B = set("Python2024")
 print(B)
 
 
+# To test the duplicate elements
+
+M = set("Helloworld202222244444")
+
+print(M)
+
 
