@@ -25,4 +25,13 @@ print("Japan" in d)
 
 print("Germany" in d)
 
+# this is to get all the keys in dictonary
+
+print(d.keys())
+
+# this is to get all the values from the dictionary
+
+
+print(d.values())
+
 
