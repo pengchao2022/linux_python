@@ -18,3 +18,13 @@ E = B - A
 print(E)
 
 
+G = A & B
+
+print(G)
+
+
+H = A | B
+
+print(H)
+
+
