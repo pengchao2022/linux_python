@@ -6,6 +6,11 @@ print(len(d))
 
 print(d)
 
+#This is to get a key-value from the dictionary by random
+
+j = d.popitem()
+
+print(j)
 
 m = d["China"]
 
