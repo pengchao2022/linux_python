@@ -27,4 +27,8 @@ H = A | B
 
 print(H)
 
+N = A ^ B
+
+print(N)
+
 
