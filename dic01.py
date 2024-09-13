@@ -13,5 +13,16 @@ n = d["Japan"]
 
 print(n)
 
+# This is to delete the key and value from dictionary
+
+del d["USA"]
+
+print(d)
+
+# this is to judge the key is in dictionary or not
+
+print("Japan" in d)
+
+print("Germany" in d)
 
 
