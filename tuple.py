@@ -19,5 +19,11 @@ d = color[::-1]
 
 print(d)
 
+# this is to use index to output elements
+
+e = color[-1][2]
+
+print(e)
+
 
 
