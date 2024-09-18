@@ -1,0 +1,10 @@
+
+
+engchaoma@Pengchaos-MacBook-Pro ~ % echo "alias python3='python3.12'" >> ~/.bashrc
+pengchaoma@Pengchaos-MacBook-Pro ~ % 
+pengchaoma@Pengchaos-MacBook-Pro ~ % 
+pengchaoma@Pengchaos-MacBook-Pro ~ % source ~/.bashrc
+
+
+written by pengchao in Shanghai
+
